@@ -1,0 +1,38 @@
+---
+hide:
+  - navigation
+---
+
+Welcome to __opensource @IOcrafts__ — your gateway to innovative, community-driven software solutions.
+At IOcrafts, we believe in the power of open source: making our code freely available so anyone can use, modify, and contribute to our projects. 
+This approach fosters collaboration, transparency, and rapid innovation, benefiting both developers and organizations of all sizes.
+
+Explore our collection of open-source software below. 
+Each project is accompanied by a direct link, so you can dive into the code, join the community, or start using our tools right away.
+We invite you to explore, contribute, and help us build a better software ecosystem together. 
+Open source is not just about code — it's about community and shared progress.
+
+<div class="grid cards" markdown>
+
+-   :material-bowl-mix:{ .lg .bottom } __Puppetchef__
+
+    ---
+
+    A command-line tool to execute web automation 
+    recipes in YAML format.
+
+    [:octicons-arrow-right-24: Getting started](/puppetchef)
+    
+    [:octicons-arrow-right-24: On npm](https://www.npmjs.com/package/puppetchef)
+
+-   :material-handshake:{ .lg .bottom } __hsftp__
+
+    ---
+
+    A command-line tool for secure file transfer operations, written in Haskell.
+
+    [:octicons-arrow-right-24: Getting started](/hsftp)
+
+    [:octicons-arrow-right-24: On Hackage](https://hackage.haskell.org/package/hsftp)
+
+</div>
