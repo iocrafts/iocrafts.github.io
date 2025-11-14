@@ -1,0 +1,28 @@
+colorScheme = "blowfish"
+autoSwitchAppearance = "false"
+smartTOC = true
+enableEmoji = true
+# defaultAppearance = "dark"
+# logo = "img/logo.png"
+
+[homepage]
+showRecent = true
+cardView = true
+
+[article]
+showDate = false
+showWordCount = false
+showAuthor = false
+showTableOfContents = true
+showTaxonomies = true
+
+[list]
+groupByYear = false
+cardView = true
+
+[footer]
+showThemeAttribution = false
+
+[taxonomy]
+heroStyle = "basic"
+showHero = true

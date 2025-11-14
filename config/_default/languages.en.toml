@@ -1,0 +1,11 @@
+title = "IOcrafts"
+
+[params.author]
+name = "IOcrafts"
+image = "img/logo.png"
+headline = "Crafting intelligent software, bit by bit" 
+bio = "Making your ideas come to live"
+links = [
+  { github = "https://github.com/iocrafts" },
+  { linkedin = "https://linkedin.com/in/mauriziodusi" },
+]

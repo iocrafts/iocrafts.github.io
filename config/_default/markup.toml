@@ -1,0 +1,4 @@
+[highlight]
+noClasses = false
+style = "monokai"  # or "dracula", "github-dark", "solarized-dark", etc.
+# lineNos = true

@@ -1,0 +1,10 @@
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 10
+
+[[main]]
+  pre = "github"
+  url = "https://github.com/iocrafts"
+  weight = 20
+
