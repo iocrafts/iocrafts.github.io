@@ -57,7 +57,6 @@ Miscellaneous:
 
 ```yaml
 # conf.yaml
-
 remote:
         hostname: sftp.domain.com
         port: 22
