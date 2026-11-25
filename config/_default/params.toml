@@ -14,12 +14,14 @@ cardView = true
 
 [article]
 showDate = false
+showReadingTime = false
 showWordCount = false
 showAuthor = false
 showTableOfContents = true
 showTaxonomies = true
 
 [list]
+showReadingTime = false
 groupByYear = false
 cardView = true
 

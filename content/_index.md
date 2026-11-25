@@ -1,8 +1,6 @@
 ---
 title: "IOcrafts – Open-Source Developer Tools"
 description: "IOcrafts builds open-source command-line tools: Hsftp, a Haskell SFTP client, and Puppetchef, YAML-driven web automation with Puppeteer."
-cascade:
-  showReadingTime: true
 ---
 
 Welcome to IOcrafts — your gateway to innovative, community-driven software solutions. 

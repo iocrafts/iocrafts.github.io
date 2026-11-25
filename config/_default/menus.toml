@@ -8,3 +8,7 @@
   url = "https://github.com/iocrafts"
   weight = 20
 
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 15

@@ -3,15 +3,20 @@ title: "Hsftp – Haskell SFTP Command-Line Client"
 description: "Hsftp is an open-source SFTP command-line client written in Haskell for scripted uploads and downloads, with date and extension filters."
 showSummary: true
 summary: "A command-line tool for secure file transfer operations, written in Haskell."
-categories: ["Network", "program", "utils"]
-tags: ["Haskell"]
-cascade:
-  showReadingTime: true
+categories: ["CLI", "Networking"]
+tags: ["Haskell", "SFTP"]
 ---
 
-**Hsftp** is a SFTP client tool for secure file transfer operations.
+**Hsftp** is an SFTP client tool for secure file transfer operations.
 You can find and fork the source code on [GitHub](https://github.com/iocrafts/hsftp) for personal or collaborative use.
 
+[![Hackage version](https://img.shields.io/hackage/v/hsftp)](https://hackage.haskell.org/package/hsftp)
+[![License: BSD-3-Clause](https://img.shields.io/badge/license-BSD--3--Clause-blue)](https://github.com/iocrafts/hsftp/blob/main/LICENSE)
+
+- **License:** BSD-3-Clause
+- **Changelog:** [CHANGELOG.md](https://github.com/iocrafts/hsftp/blob/main/CHANGELOG.md)
+- **Report a bug or request a feature:** [GitHub Issues](https://github.com/iocrafts/hsftp/issues)
+- **Contribute:** pull requests are welcome on [GitHub](https://github.com/iocrafts/hsftp)
 
 ## Installation
 
@@ -30,7 +35,9 @@ stack install hsftp
 
 ## Usage
 
-```bash
+Run `hsftp --help` to list all options:
+
+```text
 Hsftp 1.5.0. Usage: hsftp OPTION
 
 hsftp [OPTIONS] [ITEM]
@@ -67,7 +74,7 @@ remote:
 
 ## Examples
 
-### Download - filter by date
+### Download – Filter by Date
 
 ```bash
 hsftp -c conf.yaml -d \
@@ -76,7 +83,7 @@ hsftp -c conf.yaml -d \
     --from-date "2024-06-14 12:15 PDT"
 ```
 
-### Upload - filter by extension
+### Upload – Filter by Extension
 
 ```bash
 hsftp -c conf.yaml -u \
@@ -85,7 +92,7 @@ hsftp -c conf.yaml -u \
     -e xml -e Xml
 ```
 
-### Upload - archive files locally after upload
+### Upload – Archive Files Locally After Upload
 
 ```bash
 hsftp -c conf.yaml -u \
