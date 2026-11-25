@@ -1,6 +1,6 @@
 ---
-title: "🥣 Puppetchef"
-description: "This is the puppetchef homepage."
+title: "Puppetchef – YAML Recipes for Puppeteer Web Automation"
+description: "Puppetchef is an open-source Node.js CLI that runs web browser automation recipes written in YAML on top of Puppeteer, with plugin support."
 showSummary: true
 summary: "A command-line tool to execute web automation recipes in YAML format."
 categories: ["Automation"]

@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-description: "This is the projects homepage message."
+description: "Open-source projects by IOcrafts: command-line tools for secure file transfer (SFTP) and YAML-based web browser automation."
 cascade:
   showReadingTime: true
 ---

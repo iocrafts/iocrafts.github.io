@@ -1,4 +1,7 @@
 colorScheme = "blowfish"
+description = "IOcrafts builds open-source command-line tools: Hsftp, a Haskell SFTP client, and Puppetchef, YAML-driven web automation with Puppeteer."
+keywords = ["open source", "developer tools", "command-line", "SFTP", "Haskell", "Puppeteer", "web automation", "YAML"]
+defaultSocialImage = "img/social.png"
 autoSwitchAppearance = "false"
 smartTOC = true
 enableEmoji = true
@@ -26,3 +29,6 @@ showThemeAttribution = false
 [taxonomy]
 heroStyle = "basic"
 showHero = true
+
+[verification]
+google = "SQ6lrFgX-kuYCPuEN1eAHExfg4KUx2SHEn3gG_5GS-I"

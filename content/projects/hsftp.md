@@ -1,6 +1,6 @@
 ---
-title: ":link: Hsftp"
-description: "This is the hsftp homepage."
+title: "Hsftp – Haskell SFTP Command-Line Client"
+description: "Hsftp is an open-source SFTP command-line client written in Haskell for scripted uploads and downloads, with date and extension filters."
 showSummary: true
 summary: "A command-line tool for secure file transfer operations, written in Haskell."
 categories: ["Network", "program", "utils"]

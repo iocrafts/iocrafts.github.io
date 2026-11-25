@@ -5,6 +5,7 @@
 theme = "blowfish"
 baseURL = "https://www.iocrafts.com/"
 defaultContentLanguage = "en"
+enableGitInfo = true
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
@@ -35,7 +36,6 @@ enableEmoji = true
   series = "series"
 
 [sitemap]
-  changefreq = 'daily'
   filename = 'sitemap.xml'
   priority = 0.5
 
